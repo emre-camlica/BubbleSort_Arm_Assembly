@@ -1,0 +1,2 @@
+CPU Frequency (MHz): 64
+Timer Interrupt Period (ms):177
